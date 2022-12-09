@@ -19,7 +19,7 @@ The data set includes information about:
 3. Customer account information – how long they’ve been a customer, contract, payment method, paperless billing, monthly charges, and total charges
 4. Demographic info about customers – gender, age range, and if they have partners and dependents
 
-__Problem Statement -__Given various features about a customer like Gender, SeniorCitizen, Partner, Dependents etc.. , predict if the customer will churn or not.
+<b>Problem Statement -<b>Given various features about a customer like Gender, SeniorCitizen, Partner, Dependents etc.. , predict if the customer will churn or not.
 
 __Task -__ Prepare the Data and build a model to predict the churn of a customer.
 These are the steps that are followed will doing the project
